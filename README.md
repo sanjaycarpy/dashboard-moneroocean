@@ -1,2 +1,2 @@
 # dashboard-moneroocean
-Dashboard web pour afficher les stats MoneroOcean via API
+Web dashboard to display MoneroOcean stats with API
